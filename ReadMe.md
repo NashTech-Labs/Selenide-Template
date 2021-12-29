@@ -11,7 +11,7 @@ You can checkout and run it locally with a few minutes.
 ### Description
 This project helps you to get started with selenide and how to implement it in your project using page object model
 This template will open Youtube and search for Knoldus Inc channel and run one video from there.
-In POM_Classic_Selenide and selenide_straightforward it will open DuckDuckGo search page and serch for KnoldusIncWebsite
+In POM_Classic_Selenide and selenide_straightforward it will open DuckDuckGo search page and search for KnoldusIncWebsite
 
 ### Steps to run the project
 
